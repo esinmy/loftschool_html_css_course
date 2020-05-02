@@ -69,7 +69,7 @@ p {
 }
 
 .main-page-wrapper {
-  background: url("static/img/bg/lion-header.jpg") center top 2px no-repeat, url("static/img/bg/bottom-pic.png") right -200px bottom 300px no-repeat;
+  background: url("../img/bg/lion-header.jpg") center top 2px no-repeat, url("../img/bg/bottom-pic.png") right -200px bottom 300px no-repeat;
 }
 
 .container {
@@ -422,7 +422,7 @@ p {
   content: "";
   width: 489px;
   height: 503px;
-  background: url("static/img/decor/chess.jpg") center center / cover no-repeat;
+  background: url("../img/decor/chess.jpg") center center / cover no-repeat;
   border-radius: 4px;
 }
 
@@ -489,33 +489,33 @@ p {
 }
 
 .socials__item--icon--telegram .socials__link {
-  background: url("static/img/icons/socials/telegram.png");
+  background: url("../img/icons/socials/telegram.png");
 }
 
 .socials__item--icon--telegram .socials__link:hover {
-  background: url("static/img/icons/socials/telegram-hover.png");
+  background: url("../img/icons/socials/telegram-hover.png");
 }
 
 .socials__item--icon--vk .socials__link {
-  background: url("static/img/icons/socials/vk.png");
+  background: url("../img/icons/socials/vk.png");
 }
 
 .socials__item--icon--vk .socials__link:hover {
-  background: url("static/img/icons/socials/vk-hover.png");
+  background: url("../img/icons/socials/vk-hover.png");
 }
 
 .socials__item--icon--facebook .socials__link {
-  background: url("static/img/icons/socials/facebook.png");
+  background: url("../img/icons/socials/facebook.png");
 }
 
 .socials__item--icon--facebook .socials__link:hover {
-  background: url("static/img/icons/socials/facebook-hover.png");
+  background: url("../img/icons/socials/facebook-hover.png");
 }
 
 .socials__item--icon--instagram .socials__link {
-  background: url("static/img/icons/socials/instagram.png");
+  background: url("../img/icons/socials/instagram.png");
 }
 
 .socials__item--icon--instagram .socials__link:hover {
-  background: url("static/img/icons/socials/instagram-hover.png");
+  background: url("../img/icons/socials/instagram-hover.png");
 }
