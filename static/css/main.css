@@ -104,7 +104,7 @@ p {
   letter-spacing: 0.5px;
 }
 
-.menu__item_active .menu__link {
+.menu__item--active .menu__link {
   color: #dfb56d;
 }
 
@@ -150,7 +150,7 @@ p {
 }
 
 .hero__content {
-  width: 400px;
+  max-width: 400px;
   margin-bottom: 171px;
 }
 
@@ -314,6 +314,7 @@ p {
 
 .news {
   margin-left: 2px;
+  margin-bottom: 150px;
 }
 
 .news__title-section {
@@ -376,7 +377,6 @@ p {
 
 .paginator {
   text-align: center;
-  margin-bottom: 150px;
 }
 
 .paginator__status, .paginator__list, .paginator__item {
@@ -409,7 +409,7 @@ p {
   border-radius: 50%;
 }
 
-.about-overall {
+.page-content-footer {
   margin-bottom: 110px;
 }
 
@@ -454,14 +454,14 @@ p {
   margin-bottom: 0;
 }
 
-.footer {
+.footer__border {
+  border-top: 1px solid #353538;
+}
+
+.footer-content {
   height: 123px;
   position: relative;
   margin-top: 18px;
-}
-
-.footer-container__content {
-  border-top: 1px solid #353538;
 }
 
 .socials__list {
