@@ -40,7 +40,7 @@ body {
   color: #fff;
   font-size: 16px;
   line-height: 1.42;
-  background: #29292C;
+  background: #252329;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
@@ -427,7 +427,7 @@ p {
 }
 
 .about-bank {
-  background: #202123;
+  background: #1A1B1E;
   padding: 68px 99px;
   margin-top: 108px;
   margin-left: -134px;
@@ -454,8 +454,10 @@ p {
   margin-bottom: 0;
 }
 
-.footer__border {
+.footer {
   border-top: 1px solid #353538;
+  width: 1140px;
+  margin: 0 auto;
 }
 
 .footer-content {
