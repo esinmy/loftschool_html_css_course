@@ -149,9 +149,12 @@ p {
   letter-spacing: 0.2px;
 }
 
+.hero {
+  margin-bottom: 171px;
+}
+
 .hero__content {
   max-width: 400px;
-  margin-bottom: 171px;
 }
 
 .hero__title {
@@ -422,7 +425,7 @@ p {
   content: "";
   width: 489px;
   height: 503px;
-  background: url("../img/decor/chess.jpg") center center / cover no-repeat;
+  background: url("../img/decor/chess.jpg") -353px -31px / 180% no-repeat;
   border-radius: 4px;
 }
 
@@ -454,7 +457,7 @@ p {
   margin-bottom: 0;
 }
 
-.footer {
+.footer:after {
   border-top: 1px solid #353538;
   width: 1140px;
   margin: 0 auto;
