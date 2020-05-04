@@ -457,7 +457,7 @@ p {
   margin-bottom: 0;
 }
 
-.footer:after {
+.footer {
   border-top: 1px solid #353538;
   width: 1140px;
   margin: 0 auto;
