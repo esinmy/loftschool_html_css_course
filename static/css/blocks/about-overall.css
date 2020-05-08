@@ -1,0 +1,12 @@
+.about-overall {
+  display: flex;
+}
+
+.about-overall:before {
+  content: "";
+  width: 489px;
+  height: 503px;
+  background: url("../../img/decor/chess.jpg") -353px -31px / 180% no-repeat;
+  border-radius: 4px;
+  display: block;
+}

@@ -1,0 +1,22 @@
+.news {
+  margin-left: 2px;
+  margin-bottom: 150px;
+}
+
+.news__title-section {
+  font-weight: bold;
+  font-size: 36px;
+  margin-bottom: 50px;
+}
+
+.news__list {
+  margin-bottom: 47px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.news__item {
+  height: 392px;
+  flex: 1;
+  margin-right: 2%;
+}

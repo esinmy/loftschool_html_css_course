@@ -1,0 +1,27 @@
+.about-bank {
+  background: #1A1B1E;
+  padding: 68px 99px;
+  margin-top: 108px;
+  margin-left: -134px;
+  min-height: 455px;
+  border-radius: 4px;
+}
+
+.about-bank__title {
+  font-weight: bold;
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+.about-bank__text {
+  margin-bottom: 42px;
+  width: 580px;
+}
+
+.about-bank__text p {
+  margin-bottom: 20px;
+}
+
+.about-bank__text p:last-child {
+  margin-bottom: 0;
+}

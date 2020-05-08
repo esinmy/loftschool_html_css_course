@@ -1,0 +1,25 @@
+.footer {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.footer__col {
+  display: flex;
+  align-items: center;
+}
+
+.footer__col--align--right {
+  align-items: flex-end;
+}
+
+.footer-main {
+  border-top: 1px solid #353538;
+}
+
+.page-content-footer {
+  margin-bottom: 110px;
+}
+
+.inner-footer {
+  margin-top: auto;
+}

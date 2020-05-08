@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.42;
+  background: #29292C;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
+
+a { 
+  color: inherit;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: normal;
+}
+
+p {
+  margin-top: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+body, html {
+  height: 100%;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  overflow: hidden;
+  min-width: 1200px;
+}
+
+.main-page-wrapper {
+  background: url("../../img/bg/lion-header.jpg") center top 2px no-repeat, url("../../img/bg/bottom-pic.png") right -200px bottom 300px no-repeat;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1140px;
+}
+
+.container__index {
+  height: 123px;
+  margin-top: 9px;
+}
+
+.container__service {
+  padding: 46px 0;
+}
+
+.container-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

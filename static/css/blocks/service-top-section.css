@@ -1,0 +1,14 @@
+.service-top-section {
+  background: #202123 url("../../img/bg/lion-head-wide.jpg") center top no-repeat;
+  min-height: 412px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 25px;
+}
+
+.service-top-section__container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
