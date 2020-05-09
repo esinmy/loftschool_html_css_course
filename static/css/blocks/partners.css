@@ -4,11 +4,11 @@
 }
 
 .partners__item {
-  margin-left: 46px;
+  margin-right: 46px;
 }
 
-.partners__item:nth-child(4n + 1) {
-  margin-left: 0;
+.partners__item:nth-child(4n+1) {
+  margin-right: 0;
 }
 
 .partners__link {
