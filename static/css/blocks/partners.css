@@ -7,7 +7,7 @@
   margin-right: 46px;
 }
 
-.partners__item:nth-child(4n+1) {
+.partners__item:nth-child(4n+4) {
   margin-right: 0;
 }
 
