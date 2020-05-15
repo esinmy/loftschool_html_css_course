@@ -36,7 +36,7 @@
 }
 
 .review__user:after {
-  content: url("/static/img/icons/socials/vk-colored.png");
+  content: url("../../img/icons/socials/vk-colored.png");
   margin-left: 10px;
   height: 29px;
 }
